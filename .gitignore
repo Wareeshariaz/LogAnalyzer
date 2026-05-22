@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Generated outputs
+report.txt
+out.json
+sample.log
+
+# OS files
+.DS_Store
+Thumbs.db
