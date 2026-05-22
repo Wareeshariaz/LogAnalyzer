@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LogAnalyzer
 
 A small Python CLI tool that analyzes mixed-format server logs and prints a useful summary report.
@@ -64,3 +65,6 @@ The repository includes `scripts/generate_sample_logs.py` to create representati
 - extra quoted fields such as user agents and referrers
 - JSON-formatted lines mixed in
 - malformed lines and blank lines
+=======
+# LogAnalyzer
+>>>>>>> a90af189b1efa7a9311fae42747dff57efb2f030
